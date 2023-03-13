@@ -1,0 +1,57 @@
+  body,html {
+    margin: 0 auto;
+    font-family: serif;
+    font-size: 16px;
+  }
+
+  li {
+    font-size: 1.2rem;
+    font-family: serif;
+    display: flex;
+    justify-content: space-between;
+    padding: 1em 1.5em;
+    margin: 1em 0;
+    background-color:#f6faee;/*背景色*/
+    border-left: solid 10px #6b8e23;/*左ライン*/
+  }
+  
+  #nyuryoku {
+    text-align: center;
+  }
+
+  .task_value {
+    height: 2.5rem;
+    width: 20rem;
+  }
+  
+  .task_submit {
+    height: 2.5rem;
+    background-color:#f6faee;;/*背景色*/
+  }
+  
+  #table {
+    background-color: papayawhip; 
+    width: 50%;
+    height: auto;
+    border-radius: 1rem;
+    padding:  2rem 2rem 4rem 2rem;
+    margin: 2rem auto;
+  }
+  h1 {
+    font-size: 3rem;
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  h2 {
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+  }
+
+  input {
+    margin: auto 1rem ;
+  }
+
+  .isComplete {
+    text-decoration: line-through;
+  }
