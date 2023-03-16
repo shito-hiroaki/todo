@@ -11,8 +11,8 @@
     justify-content: space-between;
     padding: 1em 1.5em;
     margin: 1em 0;
-    background-color:#f6faee;/*背景色*/
-    border-left: solid 10px #6b8e23;/*左ライン*/
+    background-color:#ceefe4;/*背景色*/
+    border-left: solid 10px #9dd3a8;/*左ライン*/
   }
   
   #nyuryoku {
@@ -26,11 +26,11 @@
   
   .task_submit {
     height: 2.5rem;
-    background-color:#f6faee;;/*背景色*/
+    background-color:#ceefe4;/*背景色*/
   }
   
   #table {
-    background-color: papayawhip; 
+    background-color: #f4f0e6; 
     width: 50%;
     height: auto;
     border-radius: 1rem;

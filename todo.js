@@ -13,8 +13,8 @@ const addTasks = (task) => {
   const deleteButton = document.createElement('button');
   deleteButton.innerHTML = '削除';
   listItem.appendChild(deleteButton);
-  deleteButton.style.backgroundColor = "#6b8e23";
-  deleteButton.style.color = "#fff"
+  deleteButton.style.backgroundColor = "#9dd3a8";
+  deleteButton.style.color = "#000"
 
   // 削除ボタンをクリックし、イベントを発動（タスクが削除）
   deleteButton.addEventListener('click', evt => {
